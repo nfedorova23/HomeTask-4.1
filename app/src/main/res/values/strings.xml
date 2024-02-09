@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">task41</string>
+    <string name="f_a">Fragment A</string>
+    <string name="f_b">Fragment B</string>
+    <string name="f_c">Fragment C</string>
+    <string name="f_d">Fragment D</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+</resources>
